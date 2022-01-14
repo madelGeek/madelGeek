@@ -1,5 +1,7 @@
 ### Hi there, I'm Daria 👋
 
+
+<img align="right" alt="GIF" src="https://github.com/madelGeek/madelGeek/blob/main/car.webp?raw=true" width="285" height="300" />
 <p>I'm a professional software engineer and team lead with 7+ years of experience.</p>
 
 - 🇺🇦 I live in Kyiv, Ukraine
