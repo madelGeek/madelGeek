@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there, I'm Daria 👋
 
-<!--
-**madelGeek/madelGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm a professional software engineer and team lead with 7+ years of experience.</p>
 
-Here are some ideas to get you started:
+- 🇺🇦 I live in Kyiv, Ukraine
+- ✨ I'm a tech owner & frontend engineer at [90poe](https://www.90poe.io/)
+- 🔭 I’m currently working on creation application, using React & TypeScript
+- 🌱 I’m currently learning algorithms
+- 💬 Ask me about anything
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+🎨 **Skills:**
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=AFFFD6)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=#AFFFD6)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=#AFFFD6)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=AFFFD6)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=AFFFD6)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=AFFFD6)
+
+
+
+📈 **My GitHub Stats:**
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madelGeek&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
+
+
+☎️ **Connect with me:**
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dariagorchylina)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/madelGeek)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/madelgeek/)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madelGeek&" alt="madelgeek" /></p>
+
