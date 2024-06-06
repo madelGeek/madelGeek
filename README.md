@@ -2,14 +2,9 @@
 
 <p>I'm a professional software engineer and team lead with 7+ years of experience.</p>
 
-- 🇺🇦 I live in Kyiv, Ukraine
-- ✨ I'm a tech owner & frontend engineer at [90poe](https://www.90poe.io/)
-- 🔭 I’m currently working on creation application, using React & TypeScript
-- 🌱 I’m currently learning algorithms
-- 💬 Ask me about anything
-
-
-
+- 🇺🇦 I'm living in Lisbon, Portugal. Originally from Kyiv, Ukraine
+- ✨ I'm a tech owner | engineering manager at [90poe](https://www.90poe.io/)
+- 🔭 I’m currently working on empowering engineerings and developing scalable applications
 
 🎨 **Skills:**
 
